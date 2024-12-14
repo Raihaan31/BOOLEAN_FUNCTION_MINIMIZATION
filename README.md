@@ -47,7 +47,8 @@ endmodule
 
 Developed by: R raihaan ahmed
 RegisterNumber:24010543
-RTL realization Screenshot 2024-12-02 212131 Screenshot 2024-12-02 212819 WAVEFORM Screenshot 2024-12-02 212329 Screenshot 2024-12-02 213238 Result:
+RTL realization Screenshot 2024-12-02 212131 Screenshot 2024-12-02 212819 WAVEFORM Screenshot 2024-12-02 212329 Screenshot 2024-12-02 213238
+Result:
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
